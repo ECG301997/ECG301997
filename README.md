@@ -39,6 +39,3 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecg301997&" alt="ecg301997" /></p>
 
-
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7042561551479775232" height="671" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
