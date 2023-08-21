@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ecg301997" alt="ecg301997" /></a> </p>
 
 
-- 🔭 I’m currently working in **GRUPO HDI**
+- 🔭 I’m currently working in **TATA CONSULTANCY SERVICES**
 
 - 🌱 I’m currently learning **SpringBoot, Angular, TypeScript, Go**
 
