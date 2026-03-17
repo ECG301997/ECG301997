@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ECG301997?tab=repositories](https://github.com/ECG301997?tab=repositories)
 
-- 💼 you can find my [Portfolio here(https://ecg301997.github.io/portfolio/)
+- 💼 you can find my [Portfolio here](https://ecg301997.github.io/portfolio/)
 
 - 💬 Ask me about **Java, JavaScript, Python**
 
